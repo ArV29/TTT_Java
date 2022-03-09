@@ -1,6 +1,6 @@
 PROJECT TITLE : Tic Tac Toe
 PURPOSE OF PROJECT : Make a game with an AI   
-VERSION or DATE : 1.0
+VERSION or DATE : 1.0 / Mid-End 2017
 HOW TO START THIS PROJECT : By executing the main function(Main.main(String[] args) of Main class
 AUTHORS : ArV
 USER INSTRUCTIONS : Enjoy the game.
